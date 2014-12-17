@@ -8,18 +8,18 @@ We annotated all frames of three sequences from VIVID[1] mannually. For each fra
 
 
 In the text, the annoteted data is organized like:
-------------------------------------------------------
+
 the number of total frames
 frame index  the number of objects in this frame
 x1 y1 x2 y2
 ....
 
-------------------------------------------------------
+
 (x1,y1) is the left-top point of the object, while (x2,y2) is the right-below point.
 
 
 Some samples are here: 
-------------------------------------------------------
+
 1820
 0000 005
 102 15 144 45
@@ -33,7 +33,7 @@ Some samples are here:
 125 181 172 215
 219 283 277 311
 329 255 382 293
--------------------------------------------------------
+
 
 
 
