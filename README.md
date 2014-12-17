@@ -1,7 +1,8 @@
 annotated-data-VIVID
-======================================================
 
 Annotated data of VIVID for moving object detection from airborne videos
+========================================================================
+
 
 We annotated all frames of three sequences from VIVID[1] mannually. For each frame, all objects were labeld. The annotated data are availble under this repository now. 
 
@@ -33,7 +34,6 @@ Some samples are here:
 125 181 172 215
 219 283 277 311
 329 255 382 293
-
 
 
 
