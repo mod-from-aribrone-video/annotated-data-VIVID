@@ -8,14 +8,12 @@ Annotated data of VIVID for moving object detection from airborne videos
 We annotated all frames of three sequences from VIVID[1] mannually. For each frame, all objects were labeld. The annotated data are availble under this repository now. 
 
 
-
 In the text, the annoteted data is organized like:
 
 the number of total frames
 frame index  the number of objects in this frame
 x1 y1 x2 y2
 ....
-
 
 (x1,y1) is the left-top point of the object, while (x2,y2) is the right-below point.
 
