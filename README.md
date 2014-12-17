@@ -8,7 +8,10 @@ Annotated data of VIVID for moving object detection from airborne videos
 We annotated all frames of three sequences from VIVID[1] mannually. For each frame, all objects were labeld. The annotated data are availble under this repository now. 
 
 
+
+
 In the text, the annoteted data is organized like:
+
 
 the number of total frames
 
@@ -58,5 +61,9 @@ Some samples are here:
 
 
 
+
 [1] http://vision.cse.psu.edu/data/vividEval/datasets/datasets.html#pets2005 
+
+
+
 
