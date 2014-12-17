@@ -12,6 +12,7 @@ We annotated all frames of three sequences from VIVID[1] mannually. For each fra
 
 In the text, the annoteted data is organized like:
 
+-------------------------------------------------------------------------
 
 the number of total frames
 
